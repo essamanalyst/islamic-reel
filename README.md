@@ -14,7 +14,7 @@
 
 **مُولّد ريلز قرآنية احترافي مع خلفيات طبيعية جميلة، قراء متعددين، وإمكانية تحميل الريلز بصيغة MP4/WebM بمقاس 9:16.**
 
-[🚀 Live Demo](#) · [📖 Documentation](#features) · [🐛 Report Bug](../../issues) · [💡 Request Feature](../../issues)
+[🚀 Live Demo](https://islamic-reels.vercel.app/) · [📖 Documentation](#features) · [🐛 Report Bug](../../issues) · [💡 Request Feature](../../issues)
 
 </div>
 
